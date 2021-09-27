@@ -49,19 +49,19 @@ WORK DONE
 
 CONCLUSION-
 
-        1] This movies has 18+ movie content more in data(eg-6 underground,after life ,etc) 
+        1] This movie has 18+ movie content more in data(eg-6 underground,afterlife ,etc) 
 
-        2] We come to conculsion that 2020 has highest movies released dispite of covid situtaion followed by year 2021 
+        2] We come to the conclusion that 2020 has the highest number of movies released despite covid situation followed by the year 2021 
 
-        3] We can eatch movie without episode that is (300, 300:rise of empire) 
+        3] We can watch movies without episodes that is (300, 300:rise of empire) 
 
-        4] United state produced the highest movie that is 336 followed by uk and japan 
+        4] United state produced the highest movie that is 336 followed by UK and japan 
 
-        5] Among the rating the highest movie rated was "the breaking bad" with (9.4) and in data set we have movie of rating (8.3) more 
+        5] Among the rating the highest movie rated was "the breaking bad" with (9.4) and in the data set we have a movie of rating (8.3) more 
 
-        6] There are different movie language out of most movie are made in english(84%),japanese(43%) 
+        6] There are different movie languages out of the most movies are made in English(84%),Japanese(43%) 
 
-        7] Data says there are more tv series more then that of movies
+        7] Data says there are more tv series more than that of movies
 
 
 RESULT- 
